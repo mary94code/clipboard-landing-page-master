@@ -180,7 +180,7 @@ a:focus {
     opacity: 0.7;
 }
 
-@media all and (min-width: 700px){
+@media all and (min-width: 850px){
     .container-4{
         display: flex;
         justify-content: center;
